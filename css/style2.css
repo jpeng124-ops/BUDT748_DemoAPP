@@ -1,0 +1,98 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #000000;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation-bar {
+  padding: 24px 80px 24px 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.logo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: relative;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 642px);
+  top: 188px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-semester-details-spring-2027-professor-paul-t-shapiro-teaching-assistants-bharath-sreekuma-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: calc(50% - 639px);
+  top: 309px;
+  width: 1151px;
+  height: 130px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-semester-details-spring-2027-professor-paul-t-shapiro-teaching-assistants-bharath-sreekuma-caifu-lin-sumanth-devara-span {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-semester-details-spring-2027-professor-paul-t-shapiro-teaching-assistants-bharath-sreekuma-caifu-lin-sumanth-devara-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-semester-details-spring-2027-professor-paul-t-shapiro-teaching-assistants-bharath-sreekuma-caifu-lin-sumanth-devara-span3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
